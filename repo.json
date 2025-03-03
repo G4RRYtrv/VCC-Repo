@@ -6,12 +6,25 @@
   },
   "packages": [
     {
-      "name": "Poiyomi Custom",
-      "id": "com.g4rry.poiyomi",
-      "version": "1.0.1",
+      "name": "com.poiyomi.toon",
+      "displayName": "Poiyomi Toon Shader",
+      "version": "9.1.23",
+      "description": "Feature-rich shaders for Unity and VRChat.",
+      "author": {
+        "name": "Poiyomi",
+        "url": "https://github.com/poiyomi/PoiyomiToonShader"
+      },
+      "gitDependencies": {},
       "vpmDependencies": {},
-      "url": "https://github.com/G4RRYtrv/VCC-Repo/releases/download/v1.0.1/poi_toon_7.3.50_UpTo_9.2.1.unitypackage",
-      "legacyFolders": ["Assets/Poiyomi"]
+      "legacyFolders": {
+        "Assets\\_PoiyomiShaders": ""
+      },
+      "legacyFiles": {},
+      "hideInEditor": false,
+      "license": "MIT",
+      "unity": "2019.4",
+      "type": "Shader",
+      "url": "https://github.com/G4RRYtrv/VCC-Repo/releases/download/v1.0.1/poi_toon_7.3.50_UpTo_9.2.1.unitypackage"
     }
   ]
 }
