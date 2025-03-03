@@ -7,13 +7,9 @@
   "packages": [
     {
       "name": "com.poiyomi.toon",
-      "displayName": "Poiyomi Toon Shader",
+      "displayName": "Poiyomi Toon Shader (Custom)",
       "version": "9.1.23",
-      "description": "Feature-rich shaders for Unity and VRChat.",
-      "author": {
-        "name": "Poiyomi",
-        "url": "https://github.com/poiyomi/PoiyomiToonShader"
-      },
+      "description": "Custom version of Poiyomi Toon Shader for Unity and VRChat.",
       "gitDependencies": {},
       "vpmDependencies": {},
       "legacyFolders": {
