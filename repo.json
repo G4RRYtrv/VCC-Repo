@@ -8,9 +8,9 @@
     {
       "name": "Poiyomi Custom",
       "id": "com.g4rry.poiyomi",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "vpmDependencies": {},
-      "url": "https://github.com/G4RRYtrv/VCC-Repo/releases/download/v1.0.0/poi_Pro_7.3.50_UpTo_9.2.1.unitypackage",
+      "url": "https://github.com/G4RRYtrv/VCC-Repo/releases/download/v1.0.1/poi_toon_7.3.50_UpTo_9.2.1.unitypackage",
       "legacyFolders": ["Assets/Poiyomi"]
     }
   ]
